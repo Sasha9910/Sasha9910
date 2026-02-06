@@ -8,8 +8,8 @@ I'm a passionate programmer who loves building innovative solutions and learning
 - 🌱 I'm continuously learning and expanding my skillset
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about software development, programming best practices, and technology
-- 📫 How to reach me: [Your email or preferred contact method]
-- ⚡ Fun fact: [Add a fun fact about yourself]
+- 📫 How to reach me: **TODO: Add your email or preferred contact method**
+- ⚡ Fun fact: **TODO: Add a fun fact about yourself**
 
 ## 🛠️ Tech Stack
 
@@ -49,13 +49,16 @@ I'm a passionate programmer who loves building innovative solutions and learning
 
 ## 🚀 Featured Projects
 
-### [Project Name 1](link-to-project)
+### Project Name 1
+<!-- TODO: Add link to your project -->
 Brief description of your project and the technologies used.
 
-### [Project Name 2](link-to-project)
+### Project Name 2
+<!-- TODO: Add link to your project -->
 Brief description of your project and the technologies used.
 
-### [Project Name 3](link-to-project)
+### Project Name 3
+<!-- TODO: Add link to your project -->
 Brief description of your project and the technologies used.
 
 ## 🌱 Currently Learning
@@ -67,10 +70,11 @@ Brief description of your project and the technologies used.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
+<!-- TODO: Replace the URLs below with your actual social media links -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ## 💡 Interests
 
